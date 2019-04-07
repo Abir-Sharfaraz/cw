@@ -1,0 +1,99 @@
+body{  }
+img{ max-width: 100% }
+
+
+/*top-sec*/
+.top-sec{}
+.topnav{
+}
+.topnav li{}
+.topnav li img{
+    position: relative;
+}
+.hand{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    transform: translateX(1040px);
+}
+
+/*nav-section*/
+.nav-section{}
+.secound li{}
+.secound li a{
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    padding: 29px 14px;
+    background-color: azure;
+}
+.secound li a:hover{
+    color: blue;
+}
+/*banner*/
+.banner{}
+.banner img{
+    margin-left: 100px;
+    padding-top: 40px;
+}
+
+/*third*/
+.third{
+    padding: 50px;
+}
+.third p{
+    text-align: center;
+    padding: 65px;
+}
+.third button{
+    /* justify-content: center; */
+    margin-left: 480px;
+    background-color: #2dcc70;
+}
+.third button:hover{}
+
+
+/*four*/
+.four{}
+.four img{
+    margin-left: 150px;
+}
+.four h2{
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.four p{
+    margin-top: 51px;
+    padding: 3px 0;
+}
+
+
+/*footer*/
+
+.footer{
+    padding: 42px;
+    /* background-color: #000000d4; */
+}
+.footer h2{
+    text-transform: uppercase;
+}
+.footer button{margin-left: 170px;}
+.footer button:hover{
+    /* margin-left: 200px; */
+    background-color: #2dcc70;
+}
+
+/*top-footer*/
+.top-footer{
+    padding: 10px 0;
+}
+.top-footer h5{
+    padding: 7px 0 0 0;
+}
+
+.top-footer li{
+    font-size: 15px;
+    font-weight: 600;
+}
+.top-footer li a{}
+.top-footer li a:hover{}
